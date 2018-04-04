@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing RW style..."
+echo "Installing Kater style..."
 
 CONFIGS="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/configs"
 
@@ -19,4 +19,4 @@ done
 
 echo "Done. :]"
 echo ""
-echo "Restart IntelliJ and/or AndroidStudio, go to Preferences, and apply 'raywenderlich.com'."
+echo "Restart IntelliJ and/or AndroidStudio, go to Preferences, and apply 'kater.com'."
