@@ -1,7 +1,7 @@
 # The Official Kater Java Style Guide
 
 This style-guide is inspired by the Ray Wenderlich Java style guide, modified to
-fit Kater needs. 
+fit Kater needs.
 
 ## Android Studio Coding Style
 
